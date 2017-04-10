@@ -14,7 +14,7 @@ HEADER = {'Connection': 'keep-alive',
 
 '''
 http://www.kuaidaili.com/ 这个地址爬不了了
-http://www.goubanjia.com/free/gngn/index.shtml 也怕不了了
+http://www.goubanjia.com/free/gngn/index.shtml 也爬不了了
 '''
 @robustCrawl
 def freeProxy1(proxy_number=100):
